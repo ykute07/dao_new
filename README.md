@@ -40,3 +40,8 @@ There are two parts to the applications. The frontend was built using NextJS to 
 The frontend was built using NextJS to support a faster and easier development workflow. The backend was built using NEAR protocol .The login integration is done by unstopabble domains
 
 
+## Link to app
+https://dmusiclens.netlify.app/
+
+## We Want To Thank Lens Protocol for Organizing DAO Global Hackathon 2023 event
+
